@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">Código da API Rest Full feita em Node.js</p>
-<p align="center"><b>Tecnologias usadas: </b> Express, MongoDB e Multer</p>
+<p align="center"><b>Tecnologias utilizadas: </b> Express, MongoDB e Multer</p>
 
 
 ##  Instalação e execução
